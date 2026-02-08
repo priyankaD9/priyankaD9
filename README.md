@@ -7,7 +7,6 @@
 Passionate about building scalable systems, automating workflows, and contributing to meaningful projects.
 
 ---
-
 ## 🌐 Connect with Me
 
 <p align="center">
