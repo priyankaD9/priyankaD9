@@ -2,7 +2,7 @@
 
 
 
-**DevOps Engineer | AWS | Terraform | Docker | Kubernetes | CI/CD | Linux | Cloud Automation | Bash   | python**
+**DevOps Engineer | AWS | Terraform | Docker | Kubernetes | CI/CD | Linux | Cloud Automation | Bash   | python| Technical writer**
 
 Passionate about building scalable systems, automating workflows, and contributing to meaningful projects.
 
