@@ -4,7 +4,7 @@
 
 **DevOps Engineer | AWS | Terraform | Docker | GCP | Kubernetes | CI/CD | Linux | Cloud Automation | Bash   | python| Technical writer**
 
-Passionate about building scalable systems, automating workflows, and contributing to meaningful projects.
+Passionate about building scalable systems, optimizing workflows through automation, and contributing to impactful, real-world projects that drive meaningful results.
 
 ---
 ## 🌐 Connect with Me
